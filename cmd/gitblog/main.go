@@ -7,6 +7,7 @@ import (
 
 	"github.com/IjichiNijika99/go-gitblog/internal/config"
 	gitclient "github.com/IjichiNijika99/go-gitblog/internal/github"
+	"github.com/IjichiNijika99/go-gitblog/internal/render"
 )
 
 func main() {
@@ -34,17 +35,24 @@ func main() {
 
 	fmt.Printf("Successfully fetched %d issues authored by you.\n", len(issues))
 
-	// 简单打印前 3 篇文章的标题看看效果
-	limit := 3
-	if len(issues) < 3 {
-		limit = len(issues)
+	fmt.Println("Rendering README.md...")
+	err = render.BuildREADME(issues, cfg.RepoName)
+	if err != nil {
+		log.Fatalf("Failed to render README.md: %v", err)
 	}
-	fmt.Println("\nRecent articles:")
-	for i := 0; i < limit; i++ {
-		fmt.Printf("- [%d] %s (Labels: %d)\n",
-			issues[i].GetNumber(),
-			issues[i].GetTitle(),
-			len(issues[i].Labels))
-	}
+	fmt.Println("README.md generated successfully!")
 	fmt.Println("==============================")
+
+	//// 简单打印前 3 篇文章的标题看看效果
+	//limit := 3
+	//if len(issues) < 3 {
+	//	limit = len(issues)
+	//}
+	//fmt.Println("\nRecent articles:")
+	//for i := 0; i < limit; i++ {
+	//	fmt.Printf("- [%d] %s (Labels: %d)\n",
+	//		issues[i].GetNumber(),
+	//		issues[i].GetTitle(),
+	//		len(issues[i].Labels))
+	//}
 }
