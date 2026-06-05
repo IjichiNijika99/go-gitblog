@@ -18,11 +18,15 @@ jobs:
   sync:
     name: Generate README
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     # 如果是由Issue触发 必须是仓库owner才执行
     if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout Code # 等价于 git clone 当前仓库
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.G_T }}
 
       - name: Set up Go Environment
         uses: actions/setup-go@v5
