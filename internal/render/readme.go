@@ -27,9 +27,9 @@ func BuildREADME(issues []*github.Issue, repoName string) error {
 
 	// 1. Header
 	buf.WriteString(fmt.Sprintf("## [Gitblog](https://github.com/%s)\n", repoName))
-	buf.WriteString("抓住那绵软的飞机云  让山神为我们指引\n")
-	buf.WriteString("不要放开相牵的双手  别让共同的梦境消散\n")
-	buf.WriteString("一人一半的羽翼  互相依偎  飞翔吧\n")
+	buf.WriteString("抓住那绵软的飞机云  让山神为我们指引  \n")
+	buf.WriteString("不要放开相牵的双手  别让共同的梦境消散  \n")
+	buf.WriteString("一人一半的羽翼  互相依偎  飞翔吧  \n")
 	buf.WriteString(fmt.Sprintf("[RSS Feed (TODO)](https://raw.githubusercontent.com/%s/master/feed.xml)\n\n", repoName))
 
 	// 2. Top Articles (Top Issues)
