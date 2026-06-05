@@ -1,0 +1,57 @@
+name: Generate Go-GitBlog README
+
+on: # 哪些事件可以触发工作流
+  workflow_dispatch: # 允许在GitHub页面点击
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'cmd/**'
+      - 'internal/**'
+
+jobs:
+  sync:
+    name: Generate README
+    runs-on: ubuntu-latest
+    # 如果是由Issue触发 必须是仓库owner才执行
+    if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout Code # 等价于 git clone 当前仓库
+        uses: actions/checkout@v4
+
+      - name: Set up Go Environment
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+          cache: true        # 开启缓存 加速每次workflow的依赖拉取速度
+
+      - name: Build and Run Go-GitBlog
+        run: |
+          # 获取当前触发工作流的Issue编号 如果是push触发则此项为空
+          ISSUE_NUM="${{ github.event.issue.number }}"
+          
+          echo "Starting Go application..."
+          # Bash脚本做一个分支判断 -z字符串长度是否为0 防止空字符串传递给Go的Integer解析器报错
+          if [ -z "$ISSUE_NUM" ]; then
+            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}"
+          else
+            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}" -issue="$ISSUE_NUM"
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          # 配置一个虚拟的机器人身份进行代码提交
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Aoi"
+          
+          # 跟踪生成的主页和备份文件
+          git add README.md BACKUP/*.md
+          
+          # 有变更就commit并push  没有变更就不做处理 避免workflow报错停用
+          git commit -a -m 'chore: auto update blog contents [skip ci]' || echo "nothing to commit"
+          git push || echo "nothing to push"
