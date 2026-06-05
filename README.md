@@ -1,7 +1,7 @@
 ## [Gitblog](https://github.com/IjichiNijika99/go-gitblog)
-抓住那绵软的飞机云  让山神为我们指引
-不要放开相牵的双手  别让共同的梦境消散
-一人一半的羽翼  互相依偎  飞翔吧
+抓住那绵软的飞机云  让山神为我们指引  
+不要放开相牵的双手  别让共同的梦境消散  
+一人一半的羽翼  互相依偎  飞翔吧  
 [RSS Feed (TODO)](https://raw.githubusercontent.com/IjichiNijika99/go-gitblog/master/feed.xml)
 
 ## 置顶文章
