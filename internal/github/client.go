@@ -73,3 +73,38 @@ func (c *Client) FetchAllIssues(ctx context.Context) ([]*github.Issue, error) {
 
 	return allIssues, nil
 }
+
+// FetchComments 获取指定issue号下owner的所有comment
+func (c *Client) FetchComments(ctx context.Context, issueNumber int) ([]*github.IssueComment, error) {
+	var allComments []*github.IssueComment
+
+	opts := &github.IssueListCommentsOptions{
+		ListOptions: github.ListOptions{
+			PerPage: 100,
+		},
+	}
+
+	for {
+		comments, resp, err := c.client.Issues.ListComments(ctx, c.owner, c.repo, issueNumber, opts)
+
+		if err != nil {
+			return nil, fmt.Errorf("failed to fetch comments: %w", err)
+		}
+
+		for _, comment := range comments {
+			if comment.User != nil && comment.User.GetLogin() == c.owner {
+				allComments = append(allComments, comment)
+			}
+		}
+
+		// NextPage为0说明已经到了最后一页 退出循环
+		if resp.NextPage == 0 {
+			break
+		}
+
+		// 指向下一页继续抓取
+		opts.Page = resp.NextPage
+	}
+
+	return allComments, nil
+}

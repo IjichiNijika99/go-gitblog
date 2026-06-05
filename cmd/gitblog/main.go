@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/IjichiNijika99/go-gitblog/internal/backup"
 	"github.com/IjichiNijika99/go-gitblog/internal/config"
 	gitclient "github.com/IjichiNijika99/go-gitblog/internal/github"
 	"github.com/IjichiNijika99/go-gitblog/internal/render"
@@ -41,6 +42,13 @@ func main() {
 		log.Fatalf("Failed to render README.md: %v", err)
 	}
 	fmt.Println("README.md generated successfully!")
+
+	fmt.Println("Starting issue backup process...")
+	err = backup.Sync(ctx, client, issues, cfg.BackupDir, cfg.IssueNumber)
+	if err != nil {
+		log.Fatalf("Failed to backup issues: %v", err)
+	}
+	fmt.Println("Backup process completed!")
 	fmt.Println("==============================")
 
 	//// 简单打印前 3 篇文章的标题看看效果
