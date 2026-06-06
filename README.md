@@ -7,18 +7,21 @@
 ## 置顶文章
 
 ## 最近更新
+- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 - [试着用github记录些什么吧](https://github.com/IjichiNijika99/go-gitblog/issues/1)--2026-06-04
 
 ## 2026
 
+- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 - [试着用github记录些什么吧](https://github.com/IjichiNijika99/go-gitblog/issues/1)--2026-06-04
 
 ## VOCALOID
 
+- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 
 ## bgm
