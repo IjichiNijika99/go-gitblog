@@ -33,3 +33,11 @@
 > [RD图床 使用文档](https://bgm.tv/group/topic/456459)
 
 > [有无好看的字体推荐](https://bgm.tv/group/topic/462863)
+
+---
+
+> [推荐编码 Agent：Pi](https://bgm.tv/group/topic/460464)
+
+> [2025年了，怎么Adobe全家桶反而越来越难找了](https://bgm.tv/group/topic/432381)
+
+> [Bangumi Status](https://bgm.tv/group/topic/459310)
