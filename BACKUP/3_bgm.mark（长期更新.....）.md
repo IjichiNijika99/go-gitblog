@@ -41,3 +41,9 @@
 > [2025年了，怎么Adobe全家桶反而越来越难找了](https://bgm.tv/group/topic/432381)
 
 > [Bangumi Status](https://bgm.tv/group/topic/459310)
+
+---
+
+> [是时候让agent来操作bangumi了！bgm-cli重磅发布](https://bgm.tv/group/topic/456468)
+
+> [bgm-cli 现已覆盖更多功能](https://bgm.tv/group/topic/462829)
