@@ -12,6 +12,7 @@ type Config struct {
 	RepoName    string
 	IssueNumber int    // 可选 默认为0代表处理所有issue
 	BackupDir   string // 备份目录 默认为"BACKUP"
+	BangumiUser string // 保存 Bangumi 用户名
 }
 
 // Parse 解析命令行参数并返回Config实例
@@ -23,6 +24,7 @@ func Parse() (*Config, error) {
 	flag.StringVar(&cfg.GitHubToken, "token", "", "GitHub Personal Access Token (Required)")
 	flag.StringVar(&cfg.RepoName, "repo", "", "GitHub Repository Name (Required)")
 	flag.IntVar(&cfg.IssueNumber, "issue", 0, "Specific issue number to process (Optional)")
+	flag.StringVar(&cfg.BangumiUser, "bangumi", "", "Bangumi User (Optional)")
 
 	// 重写Usage函数 自定义输出
 	flag.Usage = func() {
