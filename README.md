@@ -7,11 +7,11 @@
 ## 置顶文章
 
 ## 最近更新
+- [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 - [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
-- [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 
 ## 2026
 
