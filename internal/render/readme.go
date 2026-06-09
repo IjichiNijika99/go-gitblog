@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 
 	"github.com/IjichiNijika99/go-gitblog/internal/bangumi"
@@ -23,7 +24,7 @@ var IgnoreLabels = map[string]bool{
 const AnchorNumber int = 5 // 超过5篇折叠
 
 // BuildREADME 将issues转为README.md并写入
-func BuildREADME(issues []*github.Issue, repoName string, bgmData []bangumi.Collection) error {
+func BuildREADME(issues []*github.Issue, repoName string, watching []bangumi.Collection, watched []bangumi.Collection) error {
 	var buf bytes.Buffer
 
 	// 1. Header
@@ -95,61 +96,92 @@ func BuildREADME(issues []*github.Issue, repoName string, bgmData []bangumi.Coll
 		}
 	}
 
-	if len(bgmData) > 0 {
+	if len(watching) > 0 || len(watched) > 0 {
 		buf.WriteString("## Anime Schedule (Powered by Bangumi)\n\n")
 
-		// 5.1 构建表头 (海报图片行)，固定高度防止页面跳动
-		for _, item := range bgmData {
-			// 将 http 强行替换为 https 避免 GitHub 混合内容拦截
+		if len(watching) > 0 {
+			buf.WriteString("### 在看\n\n")
+			renderAnimeGrid(&buf, watching, 3)
+		}
+
+		if len(watched) > 0 {
+			// 加分割线
+			if len(watching) > 0 {
+				buf.WriteString("---\n\n")
+			}
+			buf.WriteString("### 看过\n\n")
+			renderAnimeGrid(&buf, watched, 2)
+		}
+	}
+
+	return os.WriteFile("README.md", buf.Bytes(), 0644)
+}
+
+func renderAnimeGrid(buf *bytes.Buffer, data []bangumi.Collection, watch_type int) {
+	const colsPerRow = 5
+
+	for i := 0; i < len(data); i += colsPerRow {
+		end := i + colsPerRow
+		if end > len(data) {
+			end = len(data)
+		}
+		chunk := data[i:end]
+
+		// 表头
+		for _, item := range chunk {
 			imgUrl := strings.ReplaceAll(item.Subject.Images.Common, "http://", "https://")
-			buf.WriteString(fmt.Sprintf("| <img src=\"%s\" width=\"120\" height=\"170\" /> ", imgUrl))
+			itemUrl := "https://bgm.tv/subject/" + strconv.Itoa(item.Subject.ID)
+			buf.WriteString(fmt.Sprintf("| [<img src=\"%s\" width=\"120\" height=\"170\" title=\"%s\"/>](%s) ", imgUrl, item.Subject.Name, itemUrl))
 		}
 		buf.WriteString("|\n")
 
-		// 5.2 构建 Markdown 表格分割线 (居中对齐)
-		for range bgmData {
+		// 对齐线
+		for range chunk {
 			buf.WriteString("| :---: ")
 		}
 		buf.WriteString("|\n")
 
-		// 5.3 构建信息行 (名字、评分、状态、短评)
-		for _, item := range bgmData {
+		// 信息行
+		for _, item := range chunk {
 			name := item.Subject.NameCN
 			if name == "" {
-				name = item.Subject.Name // 如果没有中文名，降级使用原名
+				name = item.Subject.Name
 			}
 
-			// 解析状态字典
-			status := "看过"
-			if item.Type == 3 {
-				status = "在看"
-			} else if item.Type == 1 {
-				status = "想看"
-			} else if item.Type == 4 {
-				status = "搁置"
-			}
+			var info string
+			if watch_type == 3 {
+				// 在看 展示分数和进度
+				epsStr := "?"
+				if item.Subject.Eps > 0 {
+					epsStr = fmt.Sprintf("%d", item.Subject.Eps)
+				}
+				info = fmt.Sprintf("**%s**<br/>%.1f<br/>ep. %d/%s", name, item.Subject.Score, item.EpStatus, epsStr)
+			} else if watch_type == 2 {
+				// 看过 展示评分和吐槽
+				comment := item.Comment
+				if comment != "" {
+					comment = strings.ReplaceAll(comment, "|", "｜")
+					comment = strings.ReplaceAll(comment, "\n", " ")
+					//runes := []rune(comment)
+					//if len(runes) > 18 {
+					//	comment = string(runes[:18]) + "<details><summary></summary>" + string(runes[18:]) + "</details>"
+					//}
+					////buf.WriteString("<details><summary>显示更多</summary>\n\n")
+					//info += fmt.Sprintf("<br/>*%s*", comment)
+				}
 
-			// 清洗短评：去除管道符和换行符，防止破坏 Markdown 表格
-			comment := item.Comment
-			comment = strings.ReplaceAll(comment, "|", "｜")
-			comment = strings.ReplaceAll(comment, "\n", " ")
-			// 限制短评长度，防止表格被无限撑开
-			// 注意：这里粗略截取字符串，实际生产可使用 []rune 处理中文字符切片
-			runes := []rune(comment)
-			if len(runes) > 18 {
-				comment = string(runes[:18]) + "..."
-			}
+				if item.Rate == 0 {
+					info = fmt.Sprintf("**%s**<br/>%s<br/><details><summary></summary>%s</details>", name, " ", comment)
+				} else {
+					info = fmt.Sprintf("**%s**<br/>%d<br/><details><summary></summary>%s</details>", name, item.Rate, comment)
+				}
 
-			info := fmt.Sprintf("**%s**<br/>⭐ %d/10<br/>状态: %s", name, item.Rate, status)
-			if comment != "" {
-				info += fmt.Sprintf("<br/>💬 *%s*", comment)
 			}
 			buf.WriteString(fmt.Sprintf("| %s ", info))
 		}
+		// 表格结束后留白
 		buf.WriteString("|\n\n")
 	}
-
-	return os.WriteFile("README.md", buf.Bytes(), 0644)
 }
 
 // hasLabel 判断Issue是否包含某个特定的标签

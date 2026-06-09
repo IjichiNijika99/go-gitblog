@@ -37,22 +37,28 @@ func main() {
 
 	fmt.Printf("Successfully fetched %d issues authored by you.\n", len(issues))
 
-	var bgmData []bangumi.Collection
+	var watchingData, watchedData []bangumi.Collection
 	if cfg.BangumiUser != "" {
 		fmt.Printf("Fetching Bangumi data for user: %s...\n", cfg.BangumiUser)
 		// 限制拉取前 5 条数据，正好填满 Markdown 表格的一行
-		data, err := bangumi.FetchRecentAnime(cfg.BangumiUser, 5)
-		if err != nil {
-			// 容错处理：不使用 Fatalf，只打印警告，保证博客继续生成
-			fmt.Printf("Warning: Failed to fetch Bangumi data: %v\n", err)
+		if data, err := bangumi.FetchRecentAnime(cfg.BangumiUser, 3, 10); err == nil {
+			watchingData = data
+			fmt.Printf("Successfully fetched %d watching records.\n", len(watchingData))
 		} else {
-			bgmData = data
-			fmt.Printf("Successfully fetched %d Bangumi records.\n", len(bgmData))
+			fmt.Printf("Warning: Failed to fetch watching data: %v\n", err)
 		}
+
+		if data, err := bangumi.FetchRecentAnime(cfg.BangumiUser, 2, 10); err == nil {
+			watchedData = data
+			fmt.Printf("Successfully fetched %d watched records.\n", len(watchedData))
+		} else {
+			fmt.Printf("Warning: Failed to fetch watched data: %v\n", err)
+		}
+
 	}
 
 	fmt.Println("Rendering README.md...")
-	err = render.BuildREADME(issues, cfg.RepoName, bgmData)
+	err = render.BuildREADME(issues, cfg.RepoName, watchingData, watchedData)
 	if err != nil {
 		log.Fatalf("Failed to render README.md: %v", err)
 	}

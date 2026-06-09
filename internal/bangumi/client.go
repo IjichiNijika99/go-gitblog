@@ -14,10 +14,13 @@ type Collection struct {
 	Type     int    `json:"type"`      // 收藏状态: 1:想看 2:看过 3:在看 4:搁置 5:抛弃
 	Comment  string `json:"comment"`   // 吐槽
 	UpdateAt string `json:"update_at"` // 更新时间
+	EpStatus int    `json:"ep_status"` // 当前看到的集数
 	Subject  struct {
-		ID     int    `json:"id"`
-		Name   string `json:"name"`
-		NameCN string `json:"name_cn"`
+		ID     int     `json:"id"`
+		Name   string  `json:"name"`
+		NameCN string  `json:"name_cn"`
+		Score  float64 `json:"score"`
+		Eps    int     `json:"eps"`
 		Images struct {
 			Large  string `json:"large"`
 			Common string `json:"common"`
@@ -31,9 +34,10 @@ type APIResponse struct {
 }
 
 // FetchRecentAnime 获取用户最近标记的动画状态
-func FetchRecentAnime(username string, limit int) ([]Collection, error) {
+// collectionType: 2为"看过"  3为"在看"
+func FetchRecentAnime(username string, collection_type int, limit int) ([]Collection, error) {
 	// subject_type=2 Anime
-	url := fmt.Sprintf("https://api.bgm.tv/v0/users/%s/collections?subject_type=2&limit=%d", username, limit)
+	url := fmt.Sprintf("https://api.bgm.tv/v0/users/%s/collections?subject_type=2&type=%d&limit=%d", username, collection_type, limit)
 
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
