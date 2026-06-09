@@ -23,3 +23,4 @@ Major Revisions Required.
 Preproduction Review.
 
 终于审完了，系统显示大修，等邮件了
+唉过去一个月了我已不记得Manuscript的模样了，能修吗，能吧
