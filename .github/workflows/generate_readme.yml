@@ -13,6 +13,8 @@ on: # 哪些事件可以触发工作流
     paths:
       - 'cmd/**'
       - 'internal/**'
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   sync:
@@ -21,7 +23,7 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     # 如果是由Issue触发 必须是仓库owner才执行
-    if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
     steps:
       - name: Checkout Code # 等价于 git clone 当前仓库
         uses: actions/checkout@v4
@@ -42,9 +44,9 @@ jobs:
           echo "Starting Go application..."
           # Bash脚本做一个分支判断 -z字符串长度是否为0 防止空字符串传递给Go的Integer解析器报错
           if [ -z "$ISSUE_NUM" ]; then
-            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}"
+            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }} -bangumi="misaka946"
           else
-            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}" -issue="$ISSUE_NUM"
+            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}" -issue="$ISSUE_NUM" -bangumi="misaka946"
           fi
 
       - name: Commit and Push Changes
