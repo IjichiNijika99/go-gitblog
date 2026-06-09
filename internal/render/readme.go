@@ -155,7 +155,8 @@ func renderAnimeGrid(buf *bytes.Buffer, data []bangumi.Collection, watch_type in
 				if item.Subject.Eps > 0 {
 					epsStr = fmt.Sprintf("%d", item.Subject.Eps)
 				}
-				info = fmt.Sprintf("**%s**<br/>%.1f<br/>ep. %d/%s", name, item.Subject.Score, item.EpStatus, epsStr)
+				//info = fmt.Sprintf("**%s**<br/>%.1f<br/>ep. %d/%s", name, item.Subject.Score, item.EpStatus, epsStr)
+				info = fmt.Sprintf("%.1f<br/>ep. %d/%s", item.Subject.Score, item.EpStatus, epsStr)
 			} else if watch_type == 2 {
 				// 看过 展示评分和吐槽
 				comment := item.Comment
@@ -171,9 +172,11 @@ func renderAnimeGrid(buf *bytes.Buffer, data []bangumi.Collection, watch_type in
 				}
 
 				if item.Rate == 0 {
-					info = fmt.Sprintf("**%s**<br/>%s<br/><details><summary></summary>%s</details>", name, " ", comment)
+					//info = fmt.Sprintf("**%s**<br/>%s<br/><details><summary></summary>%s</details>", name, " ", comment)
+					info = fmt.Sprintf("%s/%v<br/><details><summary></summary>%s</details>", "N", item.Subject.Score, comment)
 				} else {
-					info = fmt.Sprintf("**%s**<br/>%d<br/><details><summary></summary>%s</details>", name, item.Rate, comment)
+					//info = fmt.Sprintf("**%s**<br/>%d<br/><details><summary></summary>%s</details>", name, item.Rate, comment)
+					info = fmt.Sprintf("%d/%v<br/><details><summary></summary>%s</details>", item.Rate, item.Subject.Score, comment)
 				}
 
 			}
