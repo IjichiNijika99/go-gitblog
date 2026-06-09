@@ -44,3 +44,9 @@
 
 - [试着用github记录些什么吧](https://github.com/IjichiNijika99/go-gitblog/issues/1)--2026-06-04
 
+## Anime Schedule (Powered by Bangumi)
+
+| <img src="https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg" width="120" height="170" /> | <img src="https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg" width="120" height="170" /> | <img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg" width="120" height="170" /> | <img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" /> | <img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" /> |
+| :---: | :---: | :---: | :---: | :---: |
+| **尖帽子的魔法工房**<br/>⭐ 0/10<br/>状态: 在看 | **春夏秋冬代行者 春之舞**<br/>⭐ 0/10<br/>状态: 在看 | **主播女孩重度依赖**<br/>⭐ 0/10<br/>状态: 在看 | **日本三国**<br/>⭐ 0/10<br/>状态: 在看 | **阳光马达棒球场！**<br/>⭐ 0/10<br/>状态: 在看 |
+

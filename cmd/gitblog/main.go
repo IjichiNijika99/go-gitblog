@@ -6,6 +6,7 @@ import (
 	"log"
 
 	"github.com/IjichiNijika99/go-gitblog/internal/backup"
+	"github.com/IjichiNijika99/go-gitblog/internal/bangumi"
 	"github.com/IjichiNijika99/go-gitblog/internal/config"
 	gitclient "github.com/IjichiNijika99/go-gitblog/internal/github"
 	"github.com/IjichiNijika99/go-gitblog/internal/render"
@@ -36,8 +37,22 @@ func main() {
 
 	fmt.Printf("Successfully fetched %d issues authored by you.\n", len(issues))
 
+	var bgmData []bangumi.Collection
+	if cfg.BangumiUser != "" {
+		fmt.Printf("Fetching Bangumi data for user: %s...\n", cfg.BangumiUser)
+		// 限制拉取前 5 条数据，正好填满 Markdown 表格的一行
+		data, err := bangumi.FetchRecentAnime(cfg.BangumiUser, 5)
+		if err != nil {
+			// 容错处理：不使用 Fatalf，只打印警告，保证博客继续生成
+			fmt.Printf("Warning: Failed to fetch Bangumi data: %v\n", err)
+		} else {
+			bgmData = data
+			fmt.Printf("Successfully fetched %d Bangumi records.\n", len(bgmData))
+		}
+	}
+
 	fmt.Println("Rendering README.md...")
-	err = render.BuildREADME(issues, cfg.RepoName)
+	err = render.BuildREADME(issues, cfg.RepoName, bgmData)
 	if err != nil {
 		log.Fatalf("Failed to render README.md: %v", err)
 	}

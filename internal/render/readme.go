@@ -7,6 +7,7 @@ import (
 	"sort"
 	"strings"
 
+	"github.com/IjichiNijika99/go-gitblog/internal/bangumi"
 	"github.com/google/go-github/v60/github"
 )
 
@@ -22,7 +23,7 @@ var IgnoreLabels = map[string]bool{
 const AnchorNumber int = 5 // 超过5篇折叠
 
 // BuildREADME 将issues转为README.md并写入
-func BuildREADME(issues []*github.Issue, repoName string) error {
+func BuildREADME(issues []*github.Issue, repoName string, bgmData []bangumi.Collection) error {
 	var buf bytes.Buffer
 
 	// 1. Header
@@ -92,6 +93,60 @@ func BuildREADME(issues []*github.Issue, repoName string) error {
 		} else {
 			buf.WriteString("\n")
 		}
+	}
+
+	if len(bgmData) > 0 {
+		buf.WriteString("## Anime Schedule (Powered by Bangumi)\n\n")
+
+		// 5.1 构建表头 (海报图片行)，固定高度防止页面跳动
+		for _, item := range bgmData {
+			// 将 http 强行替换为 https 避免 GitHub 混合内容拦截
+			imgUrl := strings.ReplaceAll(item.Subject.Images.Common, "http://", "https://")
+			buf.WriteString(fmt.Sprintf("| <img src=\"%s\" width=\"120\" height=\"170\" /> ", imgUrl))
+		}
+		buf.WriteString("|\n")
+
+		// 5.2 构建 Markdown 表格分割线 (居中对齐)
+		for range bgmData {
+			buf.WriteString("| :---: ")
+		}
+		buf.WriteString("|\n")
+
+		// 5.3 构建信息行 (名字、评分、状态、短评)
+		for _, item := range bgmData {
+			name := item.Subject.NameCN
+			if name == "" {
+				name = item.Subject.Name // 如果没有中文名，降级使用原名
+			}
+
+			// 解析状态字典
+			status := "看过"
+			if item.Type == 3 {
+				status = "在看"
+			} else if item.Type == 1 {
+				status = "想看"
+			} else if item.Type == 4 {
+				status = "搁置"
+			}
+
+			// 清洗短评：去除管道符和换行符，防止破坏 Markdown 表格
+			comment := item.Comment
+			comment = strings.ReplaceAll(comment, "|", "｜")
+			comment = strings.ReplaceAll(comment, "\n", " ")
+			// 限制短评长度，防止表格被无限撑开
+			// 注意：这里粗略截取字符串，实际生产可使用 []rune 处理中文字符切片
+			runes := []rune(comment)
+			if len(runes) > 18 {
+				comment = string(runes[:18]) + "..."
+			}
+
+			info := fmt.Sprintf("**%s**<br/>⭐ %d/10<br/>状态: %s", name, item.Rate, status)
+			if comment != "" {
+				info += fmt.Sprintf("<br/>💬 *%s*", comment)
+			}
+			buf.WriteString(fmt.Sprintf("| %s ", info))
+		}
+		buf.WriteString("|\n\n")
 	}
 
 	return os.WriteFile("README.md", buf.Bytes(), 0644)
