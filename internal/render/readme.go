@@ -5,8 +5,10 @@ import (
 	"fmt"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 
+	"github.com/IjichiNijika99/go-gitblog/internal/bangumi"
 	"github.com/google/go-github/v60/github"
 )
 
@@ -22,7 +24,7 @@ var IgnoreLabels = map[string]bool{
 const AnchorNumber int = 5 // 超过5篇折叠
 
 // BuildREADME 将issues转为README.md并写入
-func BuildREADME(issues []*github.Issue, repoName string) error {
+func BuildREADME(issues []*github.Issue, repoName string, watching []bangumi.Collection, watched []bangumi.Collection) error {
 	var buf bytes.Buffer
 
 	// 1. Header
@@ -94,7 +96,95 @@ func BuildREADME(issues []*github.Issue, repoName string) error {
 		}
 	}
 
+	if len(watching) > 0 || len(watched) > 0 {
+		buf.WriteString("## Anime Schedule (Powered by Bangumi)\n\n")
+
+		if len(watching) > 0 {
+			buf.WriteString("### 在看\n\n")
+			renderAnimeGrid(&buf, watching, 3)
+		}
+
+		if len(watched) > 0 {
+			// 加分割线
+			if len(watching) > 0 {
+				buf.WriteString("---\n\n")
+			}
+			buf.WriteString("### 看过\n\n")
+			renderAnimeGrid(&buf, watched, 2)
+		}
+	}
+
 	return os.WriteFile("README.md", buf.Bytes(), 0644)
+}
+
+func renderAnimeGrid(buf *bytes.Buffer, data []bangumi.Collection, watch_type int) {
+	const colsPerRow = 5
+
+	for i := 0; i < len(data); i += colsPerRow {
+		end := i + colsPerRow
+		if end > len(data) {
+			end = len(data)
+		}
+		chunk := data[i:end]
+
+		// 表头
+		for _, item := range chunk {
+			imgUrl := strings.ReplaceAll(item.Subject.Images.Common, "http://", "https://")
+			itemUrl := "https://bgm.tv/subject/" + strconv.Itoa(item.Subject.ID)
+			buf.WriteString(fmt.Sprintf("| [<img src=\"%s\" width=\"120\" height=\"170\" title=\"%s\"/>](%s) ", imgUrl, item.Subject.Name, itemUrl))
+		}
+		buf.WriteString("|\n")
+
+		// 对齐线
+		for range chunk {
+			buf.WriteString("| :---: ")
+		}
+		buf.WriteString("|\n")
+
+		// 信息行
+		for _, item := range chunk {
+			name := item.Subject.NameCN
+			if name == "" {
+				name = item.Subject.Name
+			}
+
+			var info string
+			if watch_type == 3 {
+				// 在看 展示分数和进度
+				epsStr := "?"
+				if item.Subject.Eps > 0 {
+					epsStr = fmt.Sprintf("%d", item.Subject.Eps)
+				}
+				//info = fmt.Sprintf("**%s**<br/>%.1f<br/>ep. %d/%s", name, item.Subject.Score, item.EpStatus, epsStr)
+				info = fmt.Sprintf("%.1f<br/>ep. %d/%s", item.Subject.Score, item.EpStatus, epsStr)
+			} else if watch_type == 2 {
+				// 看过 展示评分和吐槽
+				comment := item.Comment
+				if comment != "" {
+					comment = strings.ReplaceAll(comment, "|", "｜")
+					comment = strings.ReplaceAll(comment, "\n", " ")
+					//runes := []rune(comment)
+					//if len(runes) > 18 {
+					//	comment = string(runes[:18]) + "<details><summary></summary>" + string(runes[18:]) + "</details>"
+					//}
+					////buf.WriteString("<details><summary>显示更多</summary>\n\n")
+					//info += fmt.Sprintf("<br/>*%s*", comment)
+				}
+
+				if item.Rate == 0 {
+					//info = fmt.Sprintf("**%s**<br/>%s<br/><details><summary></summary>%s</details>", name, " ", comment)
+					info = fmt.Sprintf("%s/%v<br/><details><summary></summary>%s</details>", "N", item.Subject.Score, comment)
+				} else {
+					//info = fmt.Sprintf("**%s**<br/>%d<br/><details><summary></summary>%s</details>", name, item.Rate, comment)
+					info = fmt.Sprintf("%d/%v<br/><details><summary></summary>%s</details>", item.Rate, item.Subject.Score, comment)
+				}
+
+			}
+			buf.WriteString(fmt.Sprintf("| %s ", info))
+		}
+		// 表格结束后留白
+		buf.WriteString("|\n\n")
+	}
 }
 
 // hasLabel 判断Issue是否包含某个特定的标签
