@@ -44,7 +44,7 @@ jobs:
           echo "Starting Go application..."
           # Bash脚本做一个分支判断 -z字符串长度是否为0 防止空字符串传递给Go的Integer解析器报错
           if [ -z "$ISSUE_NUM" ]; then
-            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }} -bangumi="misaka946"
+            go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}" -bangumi="misaka946"
           else
             go run cmd/gitblog/main.go -token="${{ secrets.G_T }}" -repo="${{ github.repository }}" -issue="$ISSUE_NUM" -bangumi="misaka946"
           fi
