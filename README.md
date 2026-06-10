@@ -7,21 +7,22 @@
 ## 置顶文章
 
 ## 最近更新
+- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
-- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 
 ## 2026
 
+- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
-- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 <details><summary>显示更多</summary>
 
+- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 - [试着用github记录些什么吧](https://github.com/IjichiNijika99/go-gitblog/issues/1)--2026-06-04
@@ -29,11 +30,15 @@
 
 ## VOCALOID
 
+- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 - [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
+<details><summary>显示更多</summary>
+
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
+</details>
 
 ## bgm
 
@@ -55,9 +60,9 @@
 
 ### 在看
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg" width="120" height="170" title="とんがり帽子のアトリエ"/>](https://bgm.tv/subject/377130) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg" width="120" height="170" title="春夏秋冬代行者 春の舞"/>](https://bgm.tv/subject/551455) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg" width="120" height="170" title="NEEDY GIRL OVERDOSE"/>](https://bgm.tv/subject/606263) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" title="日本三國"/>](https://bgm.tv/subject/623851) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg" width="120" height="170" title="とんがり帽子のアトリエ"/>](https://bgm.tv/subject/377130) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg" width="120" height="170" title="春夏秋冬代行者 春の舞"/>](https://bgm.tv/subject/551455) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg" width="120" height="170" title="NEEDY GIRL OVERDOSE"/>](https://bgm.tv/subject/606263) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" title="日本三國"/>](https://bgm.tv/subject/623851) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.7<br/>ep. 11/13 | 5.2<br/>ep. 11/14 | 5.0<br/>ep. 10/13 | 6.9<br/>ep. 10/12 | 7.0<br/>ep. 1/12 |
+| 7.0<br/>ep. 2/12 | 6.7<br/>ep. 11/13 | 5.2<br/>ep. 11/14 | 5.0<br/>ep. 10/13 | 6.9<br/>ep. 10/12 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg" width="120" height="170" title="上伊那ぼたん、酔へる姿は百合の花"/>](https://bgm.tv/subject/543360) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) |
 | :---: | :---: | :---: | :---: | :---: |
