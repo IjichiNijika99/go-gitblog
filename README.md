@@ -7,21 +7,22 @@
 ## 置顶文章
 
 ## 最近更新
+- [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
-- [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 
 ## 2026
 
+- [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
-- [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 <details><summary>显示更多</summary>
 
+- [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 - [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
@@ -30,13 +31,14 @@
 
 ## VOCALOID
 
+- [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
-- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 <details><summary>显示更多</summary>
 
+- [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
 - [だれかの心臓になれたなら](https://github.com/IjichiNijika99/go-gitblog/issues/2)--2026-06-05
 </details>
 
@@ -74,7 +76,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg" width="120" height="170" title="ゾンビランドサガ ゆめぎんがパラダイス"/>](https://bgm.tv/subject/353181) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/af/22/272510_BZ00p.jpg" width="120" height="170" title="まちカドまぞく"/>](https://bgm.tv/subject/272510) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/64/5a/290980_Jju6q.jpg" width="120" height="170" title="ヤマノススメ Next Summit"/>](https://bgm.tv/subject/290980) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/49/a2/216310_ci5yT.jpg" width="120" height="170" title="ヤマノススメ サードシーズン"/>](https://bgm.tv/subject/216310) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a4/ee/216311_zSJvJ.jpg" width="120" height="170" title="ヤマノススメ おもいでプレゼント"/>](https://bgm.tv/subject/216311) |
 | :---: | :---: | :---: | :---: | :---: |
-| 8/7.9<br/><details><summary></summary>Make Saga Great Again ! 一个原创企划有始有终已属不易，最后呈现的剧场版真的是诚意满满，我不敢说自己是frcc的忠实粉丝，但影片细节之多总能让我回忆起这个过去了七八年的与她们的邂逅。总能让我会心一笑，不时剧情展开还能超乎我意料，frcc的saga传奇，才是真正的偶像王道</details> | 6/7.5<br/><details><summary></summary>挺温馨的剧情，小原好美真适合这种角色啊</details> | 9/8<br/><details><summary></summary>向山进发对我的意义可能比我想象中要大得多。是从什么时候开始的呢，是第一次登富士山失败后的自责，是敢于面对失败重拾信心，是从怕生内向到敞开心扉，是周围可爱的有血有肉的人们......看完以后不是怅然若失，而是回忆一路看下来少女们于山巅之上的背影。想着这些令人难忘的瞬间，多少都会打上一点力气，去面对生活中的高峰。故事不会就此结束，今天太阳落下就看明天朝日升起，让我们永远向山进发</details> | 7/7.7<br/><details><summary></summary>最正确最中我意的关系性动画，雪村葵成长为了一个伟大的女性，我向往她</details> | N/7.6<br/><details><summary></summary>东西弄丢了，找回来就好了。葵和日向这样的好朋友，我以前没见过，以后大概也不会再有了</details> |
+| 8/7.9<br/><details><summary></summary>Make Saga Great Again ! 一个原创企划有始有终已属不易，最后呈现的剧场版真的是诚意满满，我不敢说自己是frcc的忠实粉丝，但影片细节之多总能让我回忆起这个过去了七八年的与她们的邂逅。总能让我会心一笑，不时剧情展开还能超乎我意料，frcc的saga传奇，才是真正的偶像王道</details> | 6/7.5<br/><details><summary></summary>挺温馨的剧情，小原好美真适合这种角色啊</details> | 9/8.1<br/><details><summary></summary>向山进发对我的意义可能比我想象中要大得多。是从什么时候开始的呢，是第一次登富士山失败后的自责，是敢于面对失败重拾信心，是从怕生内向到敞开心扉，是周围可爱的有血有肉的人们......看完以后不是怅然若失，而是回忆一路看下来少女们于山巅之上的背影。想着这些令人难忘的瞬间，多少都会打上一点力气，去面对生活中的高峰。故事不会就此结束，今天太阳落下就看明天朝日升起，让我们永远向山进发</details> | 7/7.7<br/><details><summary></summary>最正确最中我意的关系性动画，雪村葵成长为了一个伟大的女性，我向往她</details> | N/7.6<br/><details><summary></summary>东西弄丢了，找回来就好了。葵和日向这样的好朋友，我以前没见过，以后大概也不会再有了</details> |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/bf/3b/86670_Ze8H4.jpg" width="120" height="170" title="ヤマノススメ セカンドシーズン"/>](https://bgm.tv/subject/86670) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f3/b2/41658_Gsis2.jpg" width="120" height="170" title="ヤマノススメ"/>](https://bgm.tv/subject/41658) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/7f/9b/445905_M0j2M.jpg" width="120" height="170" title="勇者刑に処す 懲罰勇者9004隊刑務記録"/>](https://bgm.tv/subject/445905) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/2d/544109_U7B7C.jpg" width="120" height="170" title="真夜中ハートチューン"/>](https://bgm.tv/subject/544109) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg" width="120" height="170" title="スティール・ボール・ラン ジョジョの奇妙な冒険 1st STAGE"/>](https://bgm.tv/subject/551918) |
 | :---: | :---: | :---: | :---: | :---: |
