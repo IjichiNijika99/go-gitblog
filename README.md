@@ -68,7 +68,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg" width="120" height="170" title="上伊那ぼたん、酔へる姿は百合の花"/>](https://bgm.tv/subject/543360) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.0<br/>ep. 9/24 | 7.5<br/>ep. 9/12 | 7.4<br/>ep. 4/? | 6.9<br/>ep. 10/14 | 6.7<br/>ep. 9/13 |
+| 7.0<br/>ep. 9/24 | 7.5<br/>ep. 9/12 | 7.4<br/>ep. 4/12 | 6.9<br/>ep. 10/14 | 6.7<br/>ep. 9/13 |
 
 ---
 
