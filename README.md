@@ -7,11 +7,11 @@
 ## 置顶文章
 
 ## 最近更新
+- [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
-- [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 
 ## 2026
 
@@ -70,7 +70,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg" width="120" height="170" title="春夏秋冬代行者 春の舞"/>](https://bgm.tv/subject/551455) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg" width="120" height="170" title="NEEDY GIRL OVERDOSE"/>](https://bgm.tv/subject/606263) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" title="日本三國"/>](https://bgm.tv/subject/623851) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.2<br/>ep. 11/14 | 5.0<br/>ep. 10/13 | 6.9<br/>ep. 10/12 | 7.0<br/>ep. 9/24 | 7.4<br/>ep. 4/12 |
+| 5.2<br/>ep. 11/14 | 5.0<br/>ep. 10/13 | 6.9<br/>ep. 10/12 | 7.0<br/>ep. 9/24 | 7.3<br/>ep. 4/12 |
 
 ---
 
