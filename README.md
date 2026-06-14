@@ -7,21 +7,22 @@
 ## 置顶文章
 
 ## 最近更新
+- [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
-- [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 
 ## 2026
 
+- [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
-- [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 <details><summary>显示更多</summary>
 
+- [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
@@ -33,13 +34,14 @@
 
 ## VOCALOID
 
+- [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
-- [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 <details><summary>显示更多</summary>
 
+- [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
 - [告白](https://github.com/IjichiNijika99/go-gitblog/issues/5)--2026-06-06
