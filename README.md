@@ -7,21 +7,22 @@
 ## 置顶文章
 
 ## 最近更新
+- [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
 - [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
-- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 
 ## 2026
 
+- [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
 - [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
-- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 <details><summary>显示更多</summary>
 
+- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
@@ -34,13 +35,14 @@
 
 ## VOCALOID
 
+- [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
 - [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 - [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
-- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 <details><summary>显示更多</summary>
 
+- [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
 - [ドッペルゲンガー](https://github.com/IjichiNijika99/go-gitblog/issues/7)--2026-06-08
 - [だんだん早くなる](https://github.com/IjichiNijika99/go-gitblog/issues/6)--2026-06-07
@@ -70,7 +72,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg" width="120" height="170" title="上伊那ぼたん、酔へる姿は百合の花"/>](https://bgm.tv/subject/543360) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg" width="120" height="170" title="とんがり帽子のアトリエ"/>](https://bgm.tv/subject/377130) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.5<br/>ep. 10/12 | 6.9<br/>ep. 11/14 | 6.7<br/>ep. 10/13 | 7.0<br/>ep. 2/12 | 6.7<br/>ep. 11/13 |
+| 7.4<br/>ep. 10/12 | 6.9<br/>ep. 11/14 | 6.7<br/>ep. 10/13 | 7.0<br/>ep. 2/12 | 6.7<br/>ep. 11/13 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg" width="120" height="170" title="春夏秋冬代行者 春の舞"/>](https://bgm.tv/subject/551455) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg" width="120" height="170" title="NEEDY GIRL OVERDOSE"/>](https://bgm.tv/subject/606263) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" title="日本三國"/>](https://bgm.tv/subject/623851) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) |
 | :---: | :---: | :---: | :---: | :---: |
