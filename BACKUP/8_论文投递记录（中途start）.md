@@ -40,3 +40,11 @@ Author Revision.
 
 整体上是改完了，等导明天看看了差不多就是提交上去了
 说是大修，然而实际上主要在回答问题手稿没怎么修这是可以的吗......
+
+---
+
+## 2026-06-16
+Author Revisions Complete.
+Final Manuscript Decision.
+
+已提交，等个好解结果
