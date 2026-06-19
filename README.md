@@ -7,11 +7,11 @@
 ## 置顶文章
 
 ## 最近更新
+- [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
 - [そして誰もいなくなって](https://github.com/IjichiNijika99/go-gitblog/issues/16)--2026-06-16
 - [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
 - [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
-- [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
 
 ## 2026
 
@@ -58,6 +58,7 @@
 
 ## mark
 
+- [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 
 ## 学习
