@@ -78,7 +78,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg" width="120" height="170" title="上伊那ぼたん、酔へる姿は百合の花"/>](https://bgm.tv/subject/543360) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.4<br/>ep. 10/12 | 6.9<br/>ep. 11/14 | 6.6<br/>ep. 10/13 | 7.0<br/>ep. 2/12 | 7.3<br/>ep. 4/12 |
+| 7.4<br/>ep. 10/12 | 6.9<br/>ep. 11/14 | 6.6<br/>ep. 10/13 | 7.0<br/>ep. 2/12 | 7.2<br/>ep. 4/12 |
 
 ---
 
