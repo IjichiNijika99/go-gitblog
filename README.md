@@ -7,21 +7,22 @@
 ## 置顶文章
 
 ## 最近更新
+- [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
 - [そして誰もいなくなって](https://github.com/IjichiNijika99/go-gitblog/issues/16)--2026-06-16
 - [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
-- [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 
 ## 2026
 
+- [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [そして誰もいなくなって](https://github.com/IjichiNijika99/go-gitblog/issues/16)--2026-06-16
 - [ホワイトマインド](https://github.com/IjichiNijika99/go-gitblog/issues/15)--2026-06-15
 - [クロスロード](https://github.com/IjichiNijika99/go-gitblog/issues/14)--2026-06-14
 - [東京百鬼夜行](https://github.com/IjichiNijika99/go-gitblog/issues/13)--2026-06-13
-- [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 <details><summary>显示更多</summary>
 
+- [SLIP](https://github.com/IjichiNijika99/go-gitblog/issues/12)--2026-06-12
 - [アベリア](https://github.com/IjichiNijika99/go-gitblog/issues/11)--2026-06-11
 - [ひとりじゃイヤ](https://github.com/IjichiNijika99/go-gitblog/issues/10)--2026-06-10
 - [イヤイヤヨ](https://github.com/IjichiNijika99/go-gitblog/issues/9)--2026-06-09
@@ -63,6 +64,7 @@
 
 ## 学习
 
+- [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
 
