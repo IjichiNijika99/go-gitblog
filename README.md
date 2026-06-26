@@ -82,7 +82,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg" width="120" height="170" title="日本三國"/>](https://bgm.tv/subject/623851) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="120" height="170" title="スーパーの裏でヤニ吸うふたり"/>](https://bgm.tv/subject/571784) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.0<br/>ep. 12/14 | 6.6<br/>ep. 11/13 | 6.8<br/>ep. 11/12 | 7.0<br/>ep. 2/12 | 7.2<br/>ep. 4/12 |
+| 7.0<br/>ep. 12/14 | 6.5<br/>ep. 11/13 | 6.8<br/>ep. 11/12 | 7.0<br/>ep. 2/12 | 7.2<br/>ep. 4/12 |
 
 ---
 
