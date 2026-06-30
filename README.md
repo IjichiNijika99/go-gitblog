@@ -76,7 +76,7 @@
 
 ### 在看
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_8KYoa.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg" width="120" height="170" title="霧尾ファンクラブ"/>](https://bgm.tv/subject/513208) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg" width="120" height="170" title="マリッジトキシン"/>](https://bgm.tv/subject/590353) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg" width="120" height="170" title="氷の城壁"/>](https://bgm.tv/subject/535669) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg" width="120" height="170" title="霧尾ファンクラブ"/>](https://bgm.tv/subject/513208) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a0/09/524123_5Pwit.jpg" width="120" height="170" title="ボールパークでつかまえて！"/>](https://bgm.tv/subject/524123) |
 | :---: | :---: | :---: | :---: | :---: |
 | 6.5<br/>ep. 12/13 | 7.0<br/>ep. 13/14 | 7.0<br/>ep. 12/24 | 7.0<br/>ep. 4/12 | 7.0<br/>ep. 2/12 |
 
