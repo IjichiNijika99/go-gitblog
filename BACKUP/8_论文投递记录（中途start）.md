@@ -56,3 +56,15 @@ Repeat Review.
 Rereview.
 
 审稿人3很快就完成二审了，审稿人2直接超时expired，审稿人1拖到7月才审......
+
+---
+
+## 2026-07-03
+Rereview Complete.
+Rate Rereviewers.
+rereviewerrating_RatingComplete.
+Rereview Decision.
+Manuscript Accepted.
+Final Preproduction Review.
+
+好在最后还是接收了，后续就是出版相关的一些事了，芜~
