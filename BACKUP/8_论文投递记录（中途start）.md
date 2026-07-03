@@ -48,3 +48,11 @@ Author Revisions Complete.
 Final Manuscript Decision.
 
 已提交，等个好解结果
+
+---
+
+## 2026-06-16
+Repeat Review.
+Rereview.
+
+审稿人3很快就完成二审了，审稿人2直接超时expired，审稿人1拖到7月才审......
