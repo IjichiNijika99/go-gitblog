@@ -78,13 +78,13 @@
 
 ### 在看
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="120" height="170" title="さよならララ"/>](https://bgm.tv/subject/495291) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg" width="120" height="170" title="鉄鍋のジャン"/>](https://bgm.tv/subject/615835) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_jJsJj.jpg" width="120" height="170" title="天幕のジャードゥーガル"/>](https://bgm.tv/subject/552533) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="120" height="170" title="さよならララ"/>](https://bgm.tv/subject/495291) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.7<br/>ep. 1/12 | 7.1<br/>ep. 1/12 | 7.5<br/>ep. 1/13 | 6.8<br/>ep. 1/? | 7.8<br/>ep. 2/12 |
+| 8.1<br/>ep. 1/12 | 7.3<br/>ep. 1/? | 7.7<br/>ep. 1/12 | 7.2<br/>ep. 1/12 | 7.5<br/>ep. 1/13 |
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="120" height="170" title="無職転生Ⅲ ～異世界行ったら本気だす～"/>](https://bgm.tv/subject/501963) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg" width="120" height="170" title="乙女怪獣キャラメリゼ"/>](https://bgm.tv/subject/617123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg" width="120" height="170" title="鉄鍋のジャン"/>](https://bgm.tv/subject/615835) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="120" height="170" title="天幕のジャードゥーガル"/>](https://bgm.tv/subject/552533) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="120" height="170" title="無職転生Ⅲ ～異世界行ったら本気だす～"/>](https://bgm.tv/subject/501963) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg" width="120" height="170" title="乙女怪獣キャラメリゼ"/>](https://bgm.tv/subject/617123) |
 | :---: | :---: | :---: | :---: | :---: |
-| 8.0<br/>ep. 2/14 | 7.0<br/>ep. 1/? | 6.7<br/>ep. 1/? | 6.8<br/>ep. 3/13 | 6.8<br/>ep. 1/13 |
+| 6.8<br/>ep. 1/? | 7.9<br/>ep. 2/12 | 8.0<br/>ep. 2/14 | 7.0<br/>ep. 1/? | 6.7<br/>ep. 1/? |
 
 ---
 
