@@ -47,3 +47,7 @@
 > [是时候让agent来操作bangumi了！bgm-cli重磅发布](https://bgm.tv/group/topic/456468)
 
 > [bgm-cli 现已覆盖更多功能](https://bgm.tv/group/topic/462829)
+
+---
+
+> [以图搜番/GalGame AnimeTrace](https://bgm.tv/group/topic/465834)
