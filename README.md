@@ -7,11 +7,11 @@
 ## 置顶文章
 
 ## 最近更新
+- [就他妈用Go（Just Fucking Use Go）](https://github.com/IjichiNijika99/go-gitblog/issues/22)--2026-07-10
 - [可能会用到的工具 mark](https://github.com/IjichiNijika99/go-gitblog/issues/21)--2026-07-10
 - [Rust的生命周期](https://github.com/IjichiNijika99/go-gitblog/issues/20)--2026-07-01
 - [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
-- [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
 
 ## 2026
 
@@ -70,6 +70,10 @@
 - [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
 - [论文投递记录（中途start）](https://github.com/IjichiNijika99/go-gitblog/issues/8)--2026-06-09
+
+## 文章
+
+- [就他妈用Go（Just Fucking Use Go）](https://github.com/IjichiNijika99/go-gitblog/issues/22)--2026-07-10
 
 ## 琐事
 
