@@ -7,11 +7,11 @@
 ## 置顶文章
 
 ## 最近更新
+- [可能会用到的工具 mark](https://github.com/IjichiNijika99/go-gitblog/issues/21)--2026-07-10
 - [Rust的生命周期](https://github.com/IjichiNijika99/go-gitblog/issues/20)--2026-07-01
 - [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
-- [そして誰もいなくなって](https://github.com/IjichiNijika99/go-gitblog/issues/16)--2026-06-16
 
 ## 2026
 
@@ -60,6 +60,7 @@
 
 ## mark
 
+- [可能会用到的工具 mark](https://github.com/IjichiNijika99/go-gitblog/issues/21)--2026-07-10
 - [有意思的mark](https://github.com/IjichiNijika99/go-gitblog/issues/18)--2026-06-19
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 
@@ -78,13 +79,13 @@
 
 ### 在看
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="120" height="170" title="攻殻機動隊 THE GHOST IN THE SHELL"/>](https://bgm.tv/subject/496276) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg" width="120" height="170" title="グロウアップショウ ～ひまわりのサーカス団～"/>](https://bgm.tv/subject/570583) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg" width="120" height="170" title="きみが死ぬまで恋をしたい"/>](https://bgm.tv/subject/541285) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="120" height="170" title="攻殻機動隊 THE GHOST IN THE SHELL"/>](https://bgm.tv/subject/496276) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg" width="120" height="170" title="グロウアップショウ ～ひまわりのサーカス団～"/>](https://bgm.tv/subject/570583) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg" width="120" height="170" title="きみが死ぬまで恋をしたい"/>](https://bgm.tv/subject/541285) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.1<br/>ep. 2/? | 7.6<br/>ep. 1/? | 7.2<br/>ep. 1/13 | 7.2<br/>ep. 1/13 | 6.8<br/>ep. 4/13 |
+| 6.5<br/>ep. 2/13 | 7.1<br/>ep. 2/? | 7.6<br/>ep. 1/? | 7.2<br/>ep. 1/13 | 7.2<br/>ep. 1/13 |
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="120" height="170" title="二十世紀電氣目録-ユーレカ・エヴリカ-"/>](https://bgm.tv/subject/255209) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="120" height="170" title="さよならララ"/>](https://bgm.tv/subject/495291) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_Dj3cC.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="120" height="170" title="二十世紀電氣目録-ユーレカ・エヴリカ-"/>](https://bgm.tv/subject/255209) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.2<br/>ep. 1/13 | 8.1<br/>ep. 1/12 | 7.3<br/>ep. 1/? | 7.6<br/>ep. 1/12 | 7.2<br/>ep. 1/12 |
+| 6.8<br/>ep. 4/13 | 6.2<br/>ep. 1/13 | 8.1<br/>ep. 1/12 | 7.3<br/>ep. 1/? | 7.6<br/>ep. 1/12 |
 
 ---
 
