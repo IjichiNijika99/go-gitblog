@@ -87,9 +87,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 6.5<br/>ep. 2/13 | 7.1<br/>ep. 2/? | 7.6<br/>ep. 1/? | 7.2<br/>ep. 1/13 | 7.2<br/>ep. 1/13 |
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_Dj3cC.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="120" height="170" title="二十世紀電氣目録-ユーレカ・エヴリカ-"/>](https://bgm.tv/subject/255209) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="120" height="170" title="二十世紀電氣目録-ユーレカ・エヴリカ-"/>](https://bgm.tv/subject/255209) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.8<br/>ep. 4/13 | 6.2<br/>ep. 1/13 | 8.1<br/>ep. 1/12 | 7.3<br/>ep. 1/? | 7.6<br/>ep. 1/12 |
+| 6.8<br/>ep. 4/13 | 6.1<br/>ep. 1/13 | 8.1<br/>ep. 1/12 | 7.3<br/>ep. 1/? | 7.6<br/>ep. 1/12 |
 
 ---
 
