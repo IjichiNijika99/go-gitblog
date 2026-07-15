@@ -85,11 +85,11 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg" width="120" height="170" title="ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～"/>](https://bgm.tv/subject/545008) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="120" height="170" title="無職転生Ⅲ ～異世界行ったら本気だす～"/>](https://bgm.tv/subject/501963) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.3<br/>ep. 2/? | 6.8<br/>ep. 1/11 | 8.0<br/>ep. 3/14 | 7.6<br/>ep. 2/13 | 7.7<br/>ep. 2/12 |
+| 7.3<br/>ep. 2/? | 6.8<br/>ep. 1/11 | 8.0<br/>ep. 3/14 | 7.5<br/>ep. 2/13 | 7.7<br/>ep. 2/12 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="120" height="170" title="天幕のジャードゥーガル"/>](https://bgm.tv/subject/552533) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.0<br/>ep. 14/24 | 8.1<br/>ep. 2/12 | 7.9<br/>ep. 3/12 | 6.1<br/>ep. 2/13 | 7.1<br/>ep. 2/? |
+| 6.9<br/>ep. 14/24 | 8.1<br/>ep. 2/12 | 7.9<br/>ep. 3/12 | 6.1<br/>ep. 2/13 | 7.1<br/>ep. 2/? |
 
 ---
 
