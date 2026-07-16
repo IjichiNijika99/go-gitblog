@@ -89,7 +89,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg" width="120" height="170" title="黄泉のツガイ"/>](https://bgm.tv/subject/568572) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="120" height="170" title="天幕のジャードゥーガル"/>](https://bgm.tv/subject/552533) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="120" height="170" title="ヤニねこ"/>](https://bgm.tv/subject/622206) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.9<br/>ep. 14/24 | 8.1<br/>ep. 2/12 | 7.9<br/>ep. 3/12 | 6.1<br/>ep. 2/13 | 7.1<br/>ep. 2/? |
+| 6.9<br/>ep. 14/24 | 8.1<br/>ep. 2/12 | 7.9<br/>ep. 3/12 | 6.0<br/>ep. 2/13 | 7.1<br/>ep. 2/? |
 
 ---
 

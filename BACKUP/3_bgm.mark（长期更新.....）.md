@@ -51,3 +51,7 @@
 ---
 
 > [以图搜番/GalGame AnimeTrace](https://bgm.tv/group/topic/465834)
+
+---
+
+> [【资源】在线资源溯源计划](https://bgm.tv/group/topic/406236)
