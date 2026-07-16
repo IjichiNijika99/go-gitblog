@@ -56,6 +56,7 @@
 
 ## bgm
 
+- [Bangumi吐槽换行](https://github.com/IjichiNijika99/go-gitblog/issues/23)--2026-07-14
 - [bgm mark（长期更新.....）](https://github.com/IjichiNijika99/go-gitblog/issues/3)--2026-06-05
 
 ## mark
@@ -66,6 +67,7 @@
 
 ## 学习
 
+- [Bangumi吐槽换行](https://github.com/IjichiNijika99/go-gitblog/issues/23)--2026-07-14
 - [Rust的生命周期](https://github.com/IjichiNijika99/go-gitblog/issues/20)--2026-07-01
 - [浅认知：大模型代码和权重](https://github.com/IjichiNijika99/go-gitblog/issues/19)--2026-06-22
 - [我想学的](https://github.com/IjichiNijika99/go-gitblog/issues/17)--2026-06-19
