@@ -68,3 +68,14 @@ Manuscript Accepted.
 Final Preproduction Review.
 
 好在最后还是接收了，后续就是出版相关的一些事了，芜~
+
+---
+
+## 2026-07-06
+Production.
+
+## 2026-07-14
+Optics Letters Author Proofs - Please log in and review your proofs.
+
+## 2026-07-15
+Proofs checked.
