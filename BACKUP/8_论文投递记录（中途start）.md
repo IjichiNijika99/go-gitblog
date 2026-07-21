@@ -79,3 +79,13 @@ Optics Letters Author Proofs - Please log in and review your proofs.
 
 ## 2026-07-15
 Proofs checked.
+
+---
+
+## 2026-07-16
+Publish.
+
+## 2026-07-17
+Published.
+
+哦耶~
