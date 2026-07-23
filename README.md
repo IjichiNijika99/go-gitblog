@@ -87,11 +87,11 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg" width="120" height="170" title="対ありでした。 ～お嬢さまは格闘ゲームなんてしない～"/>](https://bgm.tv/subject/325767) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg" width="120" height="170" title="ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～"/>](https://bgm.tv/subject/545008) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg" width="120" height="170" title="鉄鍋のジャン"/>](https://bgm.tv/subject/615835) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="120" height="170" title="無職転生Ⅲ ～異世界行ったら本気だす～"/>](https://bgm.tv/subject/501963) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.6<br/>ep. 2/12 | 6.8<br/>ep. 2/11 | 7.0<br/>ep. 3/? | 8.0<br/>ep. 4/14 | 7.5<br/>ep. 3/13 |
+| 6.7<br/>ep. 3/12 | 6.8<br/>ep. 2/11 | 7.0<br/>ep. 3/? | 8.0<br/>ep. 4/14 | 7.5<br/>ep. 3/13 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg" width="120" height="170" title="花織さんは転生しても喧嘩がしたい"/>](https://bgm.tv/subject/587109) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg" width="120" height="170" title="これ描いて死ね"/>](https://bgm.tv/subject/545917) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg" width="120" height="170" title="才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました"/>](https://bgm.tv/subject/602733) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg" width="120" height="170" title="乙女怪獣キャラメリゼ"/>](https://bgm.tv/subject/617123) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="120" height="170" title="天幕のジャードゥーガル"/>](https://bgm.tv/subject/552533) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.7<br/>ep. 1/? | 7.7<br/>ep. 3/12 | 6.1<br/>ep. 2/12 | 6.7<br/>ep. 3/? | 7.9<br/>ep. 4/12 |
+| 6.8<br/>ep. 1/? | 7.7<br/>ep. 3/12 | 6.1<br/>ep. 2/12 | 6.7<br/>ep. 3/? | 7.9<br/>ep. 4/12 |
 
 ---
 
