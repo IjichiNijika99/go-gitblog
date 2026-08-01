@@ -91,7 +91,7 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg" width="120" height="170" title="BanG Dream! ゆめ∞みた"/>](https://bgm.tv/subject/583729) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg" width="120" height="170" title="ぐらんぶる Season 3"/>](https://bgm.tv/subject/569116) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.7<br/>ep. 7/13 | 6.7<br/>ep. 17/51 | 7.1<br/>ep. 4/? | 7.5<br/>ep. 4/13 | 5.7<br/>ep. 5/13 |
+| 6.6<br/>ep. 7/13 | 6.7<br/>ep. 17/51 | 7.1<br/>ep. 4/? | 7.5<br/>ep. 4/13 | 5.7<br/>ep. 5/13 |
 
 ---
 
