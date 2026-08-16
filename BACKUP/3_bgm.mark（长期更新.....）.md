@@ -59,3 +59,5 @@
 ---
 
 > [写了一本《 AI 项目实战指南 》，免费分享给技术宅的朋友们](https://bgm.tv/group/topic/468795)
+
+> [做了个bangumi wiki数据的3D可视化](https://bgm.tv/group/topic/468864)
