@@ -87,11 +87,11 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="120" height="170" title="正反対な君と僕 第2期"/>](https://bgm.tv/subject/638497) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="120" height="170" title="FX戦士くるみちゃん"/>](https://bgm.tv/subject/622288) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="120" height="170" title="二十世紀電氣目録-ユーレカ・エヴリカ-"/>](https://bgm.tv/subject/255209) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg" width="120" height="170" title="花織さんは転生しても喧嘩がしたい"/>](https://bgm.tv/subject/587109) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.8<br/>ep. 12/13 | 7.2<br/>ep. 1/? | 6.7<br/>ep. 34/51 | 4.9<br/>ep. 12/13 | 6.8<br/>ep. 10/12 |
+| 7.9<br/>ep. 12/13 | 7.2<br/>ep. 1/? | 6.7<br/>ep. 34/51 | 4.9<br/>ep. 12/13 | 6.9<br/>ep. 10/12 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg" width="120" height="170" title="逃げ上手の若君 第二期"/>](https://bgm.tv/subject/517106) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/a3/af/40310_suEF6.jpg" width="120" height="170" title="ガールズ＆パンツァー"/>](https://bgm.tv/subject/40310) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg" width="120" height="170" title="きみが死ぬまで恋をしたい"/>](https://bgm.tv/subject/541285) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="120" height="170" title="ワールド イズ ダンシング"/>](https://bgm.tv/subject/622633) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg" width="120" height="170" title="少女終末旅行"/>](https://bgm.tv/subject/218707) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.7<br/>ep. 10/12 | 7.6<br/>ep. 6/12 | 6.9<br/>ep. 4/13 | 5.3<br/>ep. 7/13 | 8.1<br/>ep. 3/12 |
+| 6.8<br/>ep. 10/12 | 7.6<br/>ep. 6/12 | 6.8<br/>ep. 4/13 | 5.3<br/>ep. 7/13 | 8.1<br/>ep. 3/12 |
 
 ---
 
