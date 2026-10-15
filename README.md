@@ -87,11 +87,11 @@
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/39/84/634708_NnWAS.jpg" width="120" height="170" title="塩対応の佐藤さんが俺にだけ甘い"/>](https://bgm.tv/subject/634708) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg" width="120" height="170" title="薬屋のひとりごと 第2期"/>](https://bgm.tv/subject/486347) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg" width="120" height="170" title="氷の城壁 第2期"/>](https://bgm.tv/subject/665390) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg" width="120" height="170" title="てつりょー！meet with 鉄道むすめ"/>](https://bgm.tv/subject/590553) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/00/586255_FcfsN.jpg" width="120" height="170" title="#ゾンビさがしてます"/>](https://bgm.tv/subject/586255) |
 | :---: | :---: | :---: | :---: | :---: |
-| 5.4<br/>ep. 2/12 | 7.5<br/>ep. 6/24 | 7.3<br/>ep. 2/? | 5.9<br/>ep. 1/12 | 5.6<br/>ep. 2/12 |
+| 5.4<br/>ep. 2/12 | 7.5<br/>ep. 6/24 | 7.3<br/>ep. 2/? | 5.9<br/>ep. 1/12 | 5.7<br/>ep. 2/12 |
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_8C9JY.jpg" width="120" height="170" title="生徒会にも穴はある！"/>](https://bgm.tv/subject/554779) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg" width="120" height="170" title="とある暗部の少女共棲"/>](https://bgm.tv/subject/537738) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg" width="120" height="170" title="バーテックスフォース"/>](https://bgm.tv/subject/636512) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg" width="120" height="170" title="ロメリア戦記"/>](https://bgm.tv/subject/511936) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="120" height="170" title="生徒会にも穴はある！"/>](https://bgm.tv/subject/554779) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg" width="120" height="170" title="とある暗部の少女共棲"/>](https://bgm.tv/subject/537738) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg" width="120" height="170" title="バーテックスフォース"/>](https://bgm.tv/subject/636512) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg" width="120" height="170" title="ロメリア戦記"/>](https://bgm.tv/subject/511936) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.4<br/>ep. 2/12 | 6.7<br/>ep. 36/51 | 7.0<br/>ep. 1/? | 6.0<br/>ep. 2/? | 6.4<br/>ep. 2/? |
+| 7.5<br/>ep. 2/12 | 6.7<br/>ep. 36/51 | 7.0<br/>ep. 1/? | 5.9<br/>ep. 2/? | 6.5<br/>ep. 2/? |
 
 ---
 
