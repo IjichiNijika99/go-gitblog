@@ -85,13 +85,13 @@
 
 ### 在看
 
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_0zLU6.jpg" width="120" height="170" title="とある暗部の少女共棲"/>](https://bgm.tv/subject/537738) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/af/3a/625799_ycox6.jpg" width="120" height="170" title="追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。"/>](https://bgm.tv/subject/625799) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg" width="120" height="170" title="Dark Machine The Animation"/>](https://bgm.tv/subject/505550) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="120" height="170" title="FX戦士くるみちゃん"/>](https://bgm.tv/subject/622288) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/89/fc/646154_uQi81.jpg" width="120" height="170" title="世界最強の魔女、始めました"/>](https://bgm.tv/subject/646154) |
+| :---: | :---: | :---: | :---: | :---: |
+| 7.1<br/>ep. 3/? | 6.5<br/>ep. 3/12 | 5.4<br/>ep. 2/? | 6.9<br/>ep. 4/12 | 6.4<br/>ep. 3/12 |
+
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_5dXDL.jpg" width="120" height="170" title="凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"/>](https://bgm.tv/subject/624085) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/ee/12/541538_LxzAg.jpg" width="120" height="170" title="幻想水滸伝"/>](https://bgm.tv/subject/541538) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg" width="120" height="170" title="薬屋のひとりごと 第2期"/>](https://bgm.tv/subject/486347) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg" width="120" height="170" title="ロメリア戦記"/>](https://bgm.tv/subject/511936) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="120" height="170" title="生徒会にも穴はある！"/>](https://bgm.tv/subject/554779) |
 | :---: | :---: | :---: | :---: | :---: |
-| 6.8<br/>ep. 3/25 | 5.0<br/>ep. 3/23 | 7.5<br/>ep. 9/24 | 6.6<br/>ep. 3/24 | 7.5<br/>ep. 3/12 |
-
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/94/c9/636023_iF8j7.jpg" width="120" height="170" title="TANK CHAIR-戦車椅子-"/>](https://bgm.tv/subject/636023) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/00/586255_FcfsN.jpg" width="120" height="170" title="#ゾンビさがしてます"/>](https://bgm.tv/subject/586255) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg" width="120" height="170" title="Dark Machine The Animation"/>](https://bgm.tv/subject/505550) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg" width="120" height="170" title="らんま1/2 第3期"/>](https://bgm.tv/subject/637802) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg" width="120" height="170" title="てつりょー！meet with 鉄道むすめ"/>](https://bgm.tv/subject/590553) |
-| :---: | :---: | :---: | :---: | :---: |
-| 6.2<br/>ep. 3/? | 5.7<br/>ep. 3/12 | 5.4<br/>ep. 1/? | 7.5<br/>ep. 2/? | 5.8<br/>ep. 2/12 |
+| 6.8<br/>ep. 3/25 | 4.9<br/>ep. 3/23 | 7.5<br/>ep. 9/24 | 6.6<br/>ep. 3/24 | 7.5<br/>ep. 3/12 |
 
 ---
 
