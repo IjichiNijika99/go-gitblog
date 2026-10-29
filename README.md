@@ -85,13 +85,13 @@
 
 ### 在看
 
-| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg" width="120" height="170" title="薬屋のひとりごと 第2期"/>](https://bgm.tv/subject/486347) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="120" height="170" title="生徒会にも穴はある！"/>](https://bgm.tv/subject/554779) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg" width="120" height="170" title="てつりょー！meet with 鉄道むすめ"/>](https://bgm.tv/subject/590553) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg" width="120" height="170" title="ロメリア戦記"/>](https://bgm.tv/subject/511936) |
+| [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg" width="120" height="170" title="薬屋のひとりごと 第2期"/>](https://bgm.tv/subject/486347) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_8C9JY.jpg" width="120" height="170" title="生徒会にも穴はある！"/>](https://bgm.tv/subject/554779) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg" width="120" height="170" title="てつりょー！meet with 鉄道むすめ"/>](https://bgm.tv/subject/590553) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg" width="120" height="170" title="名探偵プリキュア！"/>](https://bgm.tv/subject/611077) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg" width="120" height="170" title="ロメリア戦記"/>](https://bgm.tv/subject/511936) |
 | :---: | :---: | :---: | :---: | :---: |
 | 7.5<br/>ep. 12/24 | 7.6<br/>ep. 4/12 | 5.7<br/>ep. 3/12 | 6.7<br/>ep. 38/51 | 6.5<br/>ep. 4/24 |
 
 | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg" width="120" height="170" title="とある暗部の少女共棲"/>](https://bgm.tv/subject/537738) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/af/3a/625799_ycox6.jpg" width="120" height="170" title="追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。"/>](https://bgm.tv/subject/625799) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg" width="120" height="170" title="DARK MACHINE THE ANIMATION"/>](https://bgm.tv/subject/505550) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="120" height="170" title="FX戦士くるみちゃん"/>](https://bgm.tv/subject/622288) | [<img src="https://lain.bgm.tv/r/400/pic/cover/l/89/fc/646154_uQi81.jpg" width="120" height="170" title="世界最強の魔女、始めました"/>](https://bgm.tv/subject/646154) |
 | :---: | :---: | :---: | :---: | :---: |
-| 7.1<br/>ep. 3/? | 6.4<br/>ep. 3/12 | 5.3<br/>ep. 2/? | 6.9<br/>ep. 4/12 | 6.4<br/>ep. 3/12 |
+| 7.1<br/>ep. 3/? | 6.4<br/>ep. 3/12 | 5.2<br/>ep. 2/? | 6.9<br/>ep. 4/12 | 6.4<br/>ep. 3/12 |
 
 ---
 
